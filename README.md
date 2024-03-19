@@ -3,4 +3,5 @@
 # WEEK 1//ASSIGNMENT 3 : https://github.com/ABabhilashande/AIML-2024/blob/main/2203A51536_a1_t3%20(1).ipynb
 # WEEK 2//ASSIGNMENT 2 : https://github.com/ABabhilashande/AIML-2024/blob/main/2203A51536-ASSIG.2%20(3).ipynb
 # WEEK 3//ASSIGNMENT 1 : https://github.com/ABabhilashande/AIML-2024/blob/main/2203A51536_week3_a1.ipynb
+# ML ASSIGNMENT_1:https://github.com/ABabhilashande/AIML-2024/blob/main/2203a51536-ml-assign-1.pdf
 # ML ASSIGNMENT-2:https://github.com/ABabhilashande/AIML-2024/blob/main/2203A51536.ipynb
